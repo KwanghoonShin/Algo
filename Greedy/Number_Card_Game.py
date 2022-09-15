@@ -20,4 +20,4 @@ for i in range(N):
 result = min(array[ch_raw - 1])
 print(result)
 
-
+#what?
