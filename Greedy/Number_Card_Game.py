@@ -19,3 +19,7 @@ for i in range(N):
 # choose maximum value
 result = min(array[ch_raw - 1])
 print(result)
+
+
+
+#SEX with leedaring
