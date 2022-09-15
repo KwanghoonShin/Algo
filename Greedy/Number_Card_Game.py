@@ -21,6 +21,3 @@ result = min(array[ch_raw - 1])
 print(result)
 
 
-
-# with leedaring
-# whot
